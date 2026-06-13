@@ -4,12 +4,12 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=560&lines=Python+%2F+HTML;SkyfallStudio+Project;building+in+the+shadows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=560&lines=Python+%2F+HTML;ZeroZenHub+Project;building+in+the+shadows)](https://git.io/typing-svg)
 
 <br/>
 
 ![](https://img.shields.io/badge/STATUS-CODING-9D4EDD?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/FOCUS-SKYFALLSTUDIO-7c3aed?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/FOCUS-ZEROZENHUB-7c3aed?style=flat-square&labelColor=0d0d0d)
 [![Followers](https://img.shields.io/github/followers/zvlrxqq?style=flat-square&color=9D4EDD&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/zvlrxqq)
 ![](https://komarev.com/ghpvc/?username=zvlrxqq&style=flat-square&color=9D4EDD&label=PROFILE+VIEWS&labelColor=0d0d0d)
 
@@ -26,7 +26,7 @@
 <br/>
 
 **zvlrxqq** – Python & HTML.  
-Aktuelles Projekt: **SkyfallStudio** – mehr dazu bald.
+Aktuelles Projekt: **ZeroZenHub** – mehr dazu bald.
 
 <br/>
 
@@ -34,11 +34,11 @@ Aktuelles Projekt: **SkyfallStudio** – mehr dazu bald.
 
 | | |
 |---|---|
-| 🚀 **Aktuell** | SkyfallStudio (Python/HTML) |
+| 🚀 **Aktuell** | ZeroZenHub (Python/HTML) |
 | 🌱 **Lerne** | Web-Integration & Python Backend |
 | 🧠 **Stack** | Python · HTML |
 | 🛠️ **Tools** | GitHub · VS Code · Git |
-| 💬 **Talk to me about** | Python-Skripte, Web-Strukturen, SkyfallStudio |
+| 💬 **Talk to me about** | Python-Skripte, Web-Strukturen, ZeroZenHub |
 
 </div>
 
